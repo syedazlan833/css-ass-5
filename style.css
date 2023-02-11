@@ -1,0 +1,32 @@
+#nav {
+    background-color: blac !important;
+    width: 900px;
+    height: 90px;
+    margin: 40px 0px 0px 230px;
+    border: 2px solid blac;
+    border-radius: 20px;
+}
+
+#home {
+    color: darkturquoise;
+    font-weight: 500;
+}
+#home:hover {
+    color: white;
+    font-weight: 500;
+}
+.placeholderofnav{
+    width: 200px;
+    padding: 4px;
+    margin-left: 20px;
+    border: 2px dashed darkturquoise;
+    font-size: 16px;
+}
+.placeholderofnav:hover{
+    width: 200px;
+    padding: 4px;
+    margin-left: 20px;
+    border: 2px dashed rgb(9, 11, 11);
+    font-size: 16px;
+    
+}
